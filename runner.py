@@ -1,8 +1,8 @@
 import os 
 
 l = []
-for i in range(1,31):
-    ch = str(i) + "000"
+for i in range(1,5):
+    ch = str(i) + "0000"
 
     for j in range(0, 101):
 
